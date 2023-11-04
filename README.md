@@ -1,2 +1,2 @@
 # ywcc307
-Meeting #1
+Portfolio for presentation in regards to generative AI including presentation and minutes.
